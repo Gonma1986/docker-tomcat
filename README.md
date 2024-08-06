@@ -10,6 +10,7 @@ Clone this repository
 ```bash
 $ git clone https://github.com/emverdes/docker-tomcat-tutorial.git
 $ cd docker-tomcat-tutorial
+```
 
 Verify Tomcat download URL from https://dlcdn.apache.org/tomcat/ to update the Containerfile
 
