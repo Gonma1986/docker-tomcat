@@ -8,7 +8,7 @@ Install podman.
 Clone this repository
 
 ```bash
-$ git clone https://github.com/emverdes/docker-tomcat-tutorial.git
+$ git clone https://github.com/Gonma1986/tomcat.git
 $ cd docker-tomcat-tutorial
 ```
 
