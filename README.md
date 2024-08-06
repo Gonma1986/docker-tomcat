@@ -9,7 +9,7 @@ Clone this repository
 
 ```bash
 $ git clone https://github.com/Gonma1986/docker-tomcat.git
-$ cd tomcat/
+$ cd docker-tomcat/
 ```
 
 Verify Tomcat download URL from https://dlcdn.apache.org/tomcat/ to update the Containerfile
